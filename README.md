@@ -1,2 +1,3 @@
 # BatEagles.github.io
-[general](https://BatEagles.github.io/vibing/The%20Vibe%20Spot%20-%20Text%20Channels%20-%20general.html)
+[general](BatEagles.github.io/Vibing/The%20Vibe%20Spot%20-%20Text%20Channels%20-%20general.html)
+Vibing/The Vibe Spot - Text Channels - general.html
